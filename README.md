@@ -1,5 +1,7 @@
 # Ghoul Slayer
 
+![GhoulSlayer](ZombieFPS.jpg)
+
 #### By Owen Brown
 
 ## Description
