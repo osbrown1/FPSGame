@@ -5,7 +5,7 @@
 #### By Owen Brown
 
 ## Description
-Welcome to the Unreal FPS Game! This is a thrilling full-fledged first-person shooter developed in Unreal Engine, utilizing Blueprints for gameplay mechanics and incorporating various features such as AI, a vast landscape, smooth animations, and more. The game is designed around wave-based enemies that relentlessly chase and attack you, providing an intense and immersive gaming experience. 
+This is a thrilling full-fledged first-person shooter developed in Unreal Engine, utilizing Blueprints for gameplay mechanics and incorporating various features such as AI, a vast landscape, smooth animations, and more. The game is designed around wave-based enemies that relentlessly chase and attack you, providing an intense and immersive gaming experience. 
 
 * Note that this game is still in alpha, so while it is playable and contains all the major features, these features may be further revised based on testing and feedback.  
 
