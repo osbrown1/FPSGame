@@ -4,6 +4,10 @@
 
 #### By Owen Brown
 
+## Content Warning
+
+Please note that this game contains explicit content, including depictions of blood and violence. Player discretion is advised. 
+
 ## Description
 This is a thrilling full-fledged first-person shooter developed in Unreal Engine, utilizing Blueprints for gameplay mechanics and incorporating various features such as AI, a vast landscape, smooth animations, and more. The game is designed around wave-based enemies that relentlessly chase and attack you, providing an intense and immersive gaming experience. 
 
@@ -19,22 +23,36 @@ This is a thrilling full-fledged first-person shooter developed in Unreal Engine
 
 ## Key Features
 
-* Immersive First-Person Shooter Experience: Step into the shoes of a fearless warrior, ready to take on wave after wave of enemies in heart-pounding battles.
+* Immersive First-Person Shooter Experience: Step into the shoes of a fearless soldier, ready to take on wave after wave of enemies in heart-pounding battles.
 * AI Enemies: Encounter intelligent and challenging enemies that actively seek you out, providing a formidable challenge that tests your skills.
 * Landscaping: Explore visually stunning landscapes, carefully crafted to immerse you in the game's world and enhance the overall gaming experience.
 * Engaging Animations: Experience smooth and realistic animations for characters, weapons, and various interactions, further enhancing the game's immersion.
-* Wave-based Gameplay: Face increasingly difficult waves of enemies, each posing a unique threat and requiring strategic thinking and quick reflexes to overcome.
+* Wave-based Gameplay: Face increasingly difficult waves of enemies.
 * Stunning Visuals and Audio: Feast your eyes on stunning visuals and immerse yourself in a rich soundscape that brings the game world to life.
 
 ### Setup Instructions...
 
 #### You Will Need: 
 
-* Unreal Engine Installed
+* Unreal Engine Installed.
 * Windows installed
 
+ * To install Unreal, simply:
+
+1. Download and install the Epic Games Launcher.
+
+2. Sign up for an Epic Games account, if you don't have one.
+
+3. Sign in to the Epic Games Launcher.
+
+4. Install Unreal Engine. 
+
+5. If you'd like all the steps in detail, visit https://docs.unrealengine.com/4.27/en-US/Basics/InstallingUnrealEngine/ 
+
+
+
 #### Preliminary Project Set-up:
-1. Locate Windows.zip in the repo and click "View raw."
+1. Locate Windows.zip in my repository and click "View raw."
 2. Open the downloaded folder and open "ProjectFPS.exe."
 3. Click "Extract All" and choose the destination you want to open the file in.
 4. Locate that file and Click "ProjectFPS.exe."
