@@ -50,7 +50,7 @@ This is a thrilling full-fledged first-person shooter developed in Unreal Engine
 
 #### You Will Need: 
 
-* Unreal Engine Installed.
+* Unreal Engine Installed. To save storage, when you're prompted to choose the install location, click "Options" and deselect unecessary elements. You'll probably end up around 20GB required storage space. 
 * Windows installed
 
  * To install Unreal, simply:
