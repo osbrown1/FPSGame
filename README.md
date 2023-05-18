@@ -1,6 +1,6 @@
 # Ghoul Slayer
 
-![GhoulSlayer](ZombieFPS.jpg)
+![GhoulSlayer](./images/ZombieFPS.jpg)
 
 #### By Owen Brown
 
