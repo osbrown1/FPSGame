@@ -9,9 +9,21 @@
 Please note that this game contains explicit content, including depictions of blood and violence. Player discretion is advised. 
 
 ## Description
+
 This is a thrilling full-fledged first-person shooter developed in Unreal Engine, utilizing Blueprints for gameplay mechanics and incorporating various features such as AI, a vast landscape, smooth animations, and more. The game is designed around wave-based enemies that relentlessly chase and attack you, providing an intense and immersive gaming experience. 
 
-* Note that this game is still in alpha, so while it is playable and contains all the major features, these features may be further revised based on testing and feedback.  
+* Note that this game is still in alpha, so while it is playable and contains all the major features, these features may be further revised based on testing and feedback. 
+
+## Controls/Gameplay Mechanics
+
+* Movement: W, A, S, D
+* Jump: Spacebar
+* Fire: Left Mouse Button
+* Reload: R
+* Sprint: Shift
+* Exit Game: altF4 or wait until you win or lose for the menu to appear.
+* There are 3 waves. Defeat all enemies to progress and win. 
+* Blue boxes can be found throughout the map which replenishes your ammunition. 
 
 ## Technologies Used
 
@@ -52,6 +64,7 @@ This is a thrilling full-fledged first-person shooter developed in Unreal Engine
 
 
 #### Preliminary Project Set-up:
+
 1. Locate Windows.zip in my repository and click "View raw."
 2. Open the downloaded folder and open "ProjectFPS.exe."
 3. Click "Extract All" and choose the destination you want to open the file in.
@@ -63,4 +76,5 @@ This is a thrilling full-fledged first-person shooter developed in Unreal Engine
 * Enemies sometimes stop attacking and give up
 
 ## License
+
 Enjoy the game! If you have questions or suggestions for fixing the code, please contact me!
