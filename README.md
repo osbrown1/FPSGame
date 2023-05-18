@@ -2,6 +2,10 @@
 
 ![GhoulSlayer](./images/ZombieFPS.jpg)
 
+![GameDevLog](./images/Game Development Log.pdf)
+
+
+
 #### By Owen Brown
 
 ## Content Warning
