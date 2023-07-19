@@ -4,7 +4,7 @@
 
 ![GameDevLog](./images/GameDevelopmentLog.pdf)
 
-
+[Watch the Gameplay Video](https://youtu.be/3AG8xPJwISQ)
 
 #### By Owen Brown
 
